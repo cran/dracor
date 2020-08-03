@@ -1,8 +1,8 @@
 Package: dracor
 Type: Package
 Title: Decode Draco Format 3D Mesh Data
-Version: 0.2.1
-Date: 2020-07-22
+Version: 0.2.2
+Date: 2020-08-01
 Authors@R: c(
     person("Gregory", "Jefferis", 
     email="jefferis@gmail.com", 
@@ -23,13 +23,13 @@ Suggests: testthat, spelling
 URL: https://github.com/jefferis/dracor,
         https://github.com/google/draco
 BugReports: https://github.com/jefferis/dracor/issues
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.1
 Encoding: UTF-8
 Language: en-GB
 NeedsCompilation: yes
-Packaged: 2020-07-25 16:16:01 UTC; jefferis
+Packaged: 2020-08-03 10:15:25 UTC; jefferis
 Author: Gregory Jefferis [aut, cre] (<https://orcid.org/0000-0002-0587-9355>),
   Google Inc [aut, cph] (for the Draco library)
 Maintainer: Gregory Jefferis <jefferis@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-07-30 11:00:02 UTC
+Date/Publication: 2020-08-03 14:10:02 UTC
