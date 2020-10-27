@@ -1,10 +1,10 @@
-a1ea84e94a7a19c85d9292bf41dba98c *DESCRIPTION
+93247d3eba55b3be9703d61d656fbba6 *DESCRIPTION
 aca227a33a832223b0fc8c71793ccc0d *NAMESPACE
-e5c828d12b40eeb076246805ff834a49 *NEWS.md
+c6d08fb3651278d4d62be126c548dd05 *NEWS.md
 9bca932ce03da00e16f3dc7e6fcbc824 *R/RcppExports.R
 8387af1fd43d247db32c231e8477008a *R/dracodecode.R
 25d7f37c0bdbe26f7163f43a1334572a *R/dracor-package.R
-8ca20d51ff59eb925205e5cae1c67105 *README.md
+b3e4bdca74c3b03672716fc97d122c05 *README.md
 f49bed201300f06a6fd77976d4ba2dc5 *inst/WORDLIST
 a09aaf58dba5af1079c3577ef7078c0e *inst/draco/car.drc
 2e4e77e30c70fef8d1be13618eb3da6a *man/draco_decode.Rd
@@ -131,7 +131,7 @@ c1cd73cd1530cebf85b0d8f6e78a496f *src/draco/core/draco_index_type.h
 4cf847a610458ef422f8e766730f1805 *src/draco/core/draco_index_type_vector.h
 85440c77f77ccdc49ffee704cdf9b37f *src/draco/core/draco_types.h
 38d71d152ddd0d7d6a516c8feb9352a7 *src/draco/core/encoder_buffer.h
-0b49e799ad2c1f712a22ee25d5f3015d *src/draco/core/hash_utils.h
+eb61d8242b42f3f7d64def39d40b75a9 *src/draco/core/hash_utils.h
 9c3ea90d2c08ea042fa9cd86df26102a *src/draco/core/macros.h
 af280eed5a43c61a5a56fcedf9d7788c *src/draco/core/math_utils.h
 b6b1503028e6144e0720528234dea014 *src/draco/core/options.h
@@ -193,7 +193,7 @@ d067efe53cc66f4f4e09a60e4e9364d8 *src/mesh_misc_functions.cc
 ee2c96c72853f8b08c8528647f3729ee *src/metadata.cc
 b49013bbac3a26389c966b9387e3c55e *src/metadata_decoder.cc
 5f2a3d9bf06804901f49f9ad79731e4e *src/options.cc
-6bcfd6b60542e6e5f0aae083cd653ce7 *src/parser_utils.cc
+4e12739a0580ab08246849c4812b4676 *src/parser_utils.cc
 e5be4bd84c9cbac2af2aa2deba46ecd0 *src/point_attribute.cc
 0cf7700ae153c599320f59f7d7abe23a *src/point_cloud.cc
 e68fe793896146a562c906269320c9e0 *src/point_cloud_builder.cc
