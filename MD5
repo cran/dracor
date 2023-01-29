@@ -1,6 +1,6 @@
-06605b825311e887e4c47bf5e8dffcfe *DESCRIPTION
+ee69ae1736a405915f9cb15a4006e8ca *DESCRIPTION
 aca227a33a832223b0fc8c71793ccc0d *NAMESPACE
-a0346c0acd4f1574762798acdc438d02 *NEWS.md
+13a4558436fee869e601cbe94a5f9aae *NEWS.md
 9bca932ce03da00e16f3dc7e6fcbc824 *R/RcppExports.R
 8387af1fd43d247db32c231e8477008a *R/dracodecode.R
 25d7f37c0bdbe26f7163f43a1334572a *R/dracor-package.R
@@ -161,7 +161,7 @@ bf718360bfdfb28e6de2c684b7cb8f50 *src/draco/io/point_cloud_io.h
 6d322e285da85029819460815521eb49 *src/draco/io/stdio_file_reader.h
 115070d697b3c414e202d9fdaed3347e *src/draco/io/stdio_file_writer.h
 956333f803999ca350f05a5ac8947873 *src/draco/mesh/corner_table.h
-39c851a22597bad9fbb722a3f6607af8 *src/draco/mesh/corner_table_iterators.h
+f67371fd5ce368ab50c89df76d8d3f40 *src/draco/mesh/corner_table_iterators.h
 272520f0a14ab5c61f7bbca69fedb445 *src/draco/mesh/mesh.h
 ba375e0094510e881ce3f188290fe76b *src/draco/mesh/mesh_are_equivalent.h
 b0a8c7e4b39c4590ea485302c827d922 *src/draco/mesh/mesh_attribute_corner_table.h
